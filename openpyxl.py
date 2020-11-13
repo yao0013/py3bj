@@ -1,6 +1,6 @@
 import openpyxl
 
-wb = openpyxl.Work()
+wb = openpyxl.work()
 
 sheet = wb.active
 
