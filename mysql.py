@@ -1,5 +1,5 @@
 import random
-from random import choice
+#from random import choice
 import string
 import pymysql
 from faker import Faker

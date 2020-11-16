@@ -1,0 +1,20 @@
+pyqt5
+# pyqtgraph
+pyqtgraph==0.11.0rc0
+pyqtwebengine
+bs4
+lxml
+requests
+numpy
+pandas
+pymongo
+openpyxl
+tushare
+# pylab-sdk
+matplotlib
+requests_html
+PyExecJS
+twine
+tornado
+py2exe
+baostock
